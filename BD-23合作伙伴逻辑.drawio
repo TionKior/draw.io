@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T10:01:12.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="l-QP5_PMYeG4Wn5-PoTj" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T10:03:45.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x8PYcRurgXsDPfueIp9o" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -34,14 +34,20 @@
         <mxCell id="2IJxs5Urv_wKMsr-iPki-32" value="待合作伙伴填写" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H961M-j6gQixoAFI5cD--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2IJxs5Urv_wKMsr-iPki-35" target="H961M-j6gQixoAFI5cD--0">
+        <mxCell id="H961M-j6gQixoAFI5cD--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2IJxs5Urv_wKMsr-iPki-35" target="H961M-j6gQixoAFI5cD--0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2IJxs5Urv_wKMsr-iPki-35" value="填写完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="390" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H961M-j6gQixoAFI5cD--0" value="销售确认参与合作伙伴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K8LHGthHJLyL7ZnS5MZZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H961M-j6gQixoAFI5cD--0" target="K8LHGthHJLyL7ZnS5MZZ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H961M-j6gQixoAFI5cD--0" value="销售确认参与合作伙伴" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K8LHGthHJLyL7ZnS5MZZ-0" value="发送邮件通知合作伙伴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="530" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
