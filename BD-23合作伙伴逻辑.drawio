@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:56:02.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ru_t1nmJlo1dQ_GMUPHq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:57:12.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gMRYFjbLS5idod5oY-jA" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1195" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -28,8 +28,14 @@
         <mxCell id="2IJxs5Urv_wKMsr-iPki-31" value="生成合作伙伴待报价记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="240" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2IJxs5Urv_wKMsr-iPki-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2IJxs5Urv_wKMsr-iPki-32" target="2IJxs5Urv_wKMsr-iPki-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2IJxs5Urv_wKMsr-iPki-32" value="待合作伙伴填写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2IJxs5Urv_wKMsr-iPki-35" value="填写完成，销售查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="390" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
